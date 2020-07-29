@@ -107,9 +107,12 @@ the US and contributing to this vision.
 ## Signatories
 
 
-|Name|Institution or Organization|Email|Funded by NSF|GRFP Applicant/Awardee|Positions and communities|Comments|
-|----|---------------------------|-----|-------------|----------------------|-------------------------|--------|
-|test|test|test|test|test|test|test|
+|Name|Institution or Organization|Funded by NSF|GRFP Applicant/Awardee|Role|Comments|
+|----|---------------------------|-------------|----------------------|----|--------|
+|test|test|test|test|test|test|
+|test*|test|test|test|test|test|
+
+* This individual is a co-author of this letter
 
 
 
