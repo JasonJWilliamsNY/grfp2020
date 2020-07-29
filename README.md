@@ -1,4 +1,4 @@
-# An Open Letter Response to NSF 20-587 GRFP
+# An Open Letter in Response to NSF 20-587 (Graduate Research Fellowship Program)
 **July 30, 2020**
 
 **DRAFT DRAFT DRAFT DRAFT**
@@ -9,14 +9,14 @@ Dr. Sethuraman Panchanathan, Director National Science Foundation,
 Dr. Ellen Ochoa (Chair), and the members of the National Science Board
 CC: NSF GRFP Program officers: Drs. Jong-on Hahm, Christopher Hill, and Narcrisha S. Norman
 
+----
 
 Dear NSF Leadership, and program officers of the NSF Graduate Research Fellowship
 Program,
 
 We write to you as members of the scientific community concerned about the
 recent Graduate Research Fellowship Program (GRFP) solicitation 20-587.
-Specifically, we are troubled by the following revision (4) and its implication
-s:
+Specifically, we are troubled by the following revision (4) and its implications:
 
     “[I]n FY2021, GRFP will emphasize three high priority research areas in
     alignment with NSF goals. These areas are Artificial Intelligence, Quantum
