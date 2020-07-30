@@ -38,7 +38,7 @@ Altogether, the revision sends a clearly exclusionary message and potentially ad
 
 ### Calling for equity and not a change in merit  
 
-Commentators on social media and more than 3,000 people have signed a Change.org petition <sup>14</sup> calling for the removal of this revision. Many expressed concerns that the revision imposes a new requirement and a barrier that they themselves could not have met as past trainees. The recent clarification via Twitter (see below) insufficiently addresses this concern. Only changing the solicitation text itself could partially remedy our concerns.
+Commentators on social media and more than 3,000 people have signed a Change.org petition [14] calling for the removal of this revision. Many expressed concerns that the revision imposes a new requirement and a barrier that they themselves could not have met as past trainees. The recent clarification via Twitter (see below) insufficiently addresses this concern. Only changing the solicitation text itself could partially remedy our concerns.
 
  <img src="nsf_tweet.png" alt="NSFTWEET" style="width:600px;">
 
