@@ -1,9 +1,10 @@
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-# An Open Letter in Response to NSF 20-587 (Graduate Research Fellowship Program)
+# An Open Letter Response to NSF 20-587 GRFP
+
 **July 30, 2020**
 
-**DRAFT DRAFT DRAFT DRAFT**
+ ## See signatories and add your [signature](https://jasonjwilliamsny.github.io/grfp2020/#signatories).
 
 To:
 
@@ -13,109 +14,82 @@ CC: NSF GRFP Program officers: Drs. Jong-on Hahm, Christopher Hill, and Narcrish
 
 ----
 
-Dear NSF Leadership, and program officers of the NSF Graduate Research Fellowship
-Program,
+Dear NSF Leadership and Program Officers of the Graduate Research Fellowship Program,
 
-We write to you as members of the scientific community concerned about the
-recent Graduate Research Fellowship Program (GRFP) solicitation 20-587.
-Specifically, we are troubled by the following revision (4) and its implications:
+We write to you as members of the scientific community concerned about the recent Graduate Research Fellowship Program (GRFP) solicitation 20-587. Specifically, we are troubled by the identification, for the first time, of specific priority research areas:
 
-    “[I]n FY2021, GRFP will emphasize three high priority research areas in
-    alignment with NSF goals. These areas are Artificial Intelligence, Quantum
-    Information Science, and Computationally Intensive Research. Applications
-    are encouraged in all disciplines supported by NSF that incorporate these
-    high priority research areas.”
+*“[I]n FY2021, GRFP will emphasize three high priority research areas in alignment with NSF goals. These areas are Artificial Intelligence, Quantum Information Science, and Computationally Intensive Research. Applications are encouraged in all disciplines supported by NSF that incorporate these high priority research areas.”*
 
-The GRFP is one of the most prestigious NSF awards and has been the starting
-point for many of the US’s leading scientists. NSF’s state purpose for the GRFP
-is to “help ensure the quality, vitality, and diversity of the scientific and
-engineering workforce of the United States.” We, the authors and signatories to
-this letter, believe in this purpose and the ensuing special obligation to the
-highest standards for inclusion, equity, and diversity. We are writing to you
-as we believe this prioritization is contrary to the program’s goals and harmful.
+The GRFP is one of NSF’s most prestigious awards and has been the starting point for many of the US’s leading scientists. NSF’s stated purpose for the GRFP is to “help ensure the quality, vitality, and diversity of the scientific and engineering workforce of the United States.” We, the signatories to this letter believe in this purpose and the concomitant obligation to the highest standards for scientific merit, inclusion, equity, and diversity. We are writing to you because this revision to the GRFP solicitation is both contrary to the program’s goals and harmful.
 
-**Why this revision amplifies existing inequity**
+### This revision amplifies existing inequity
 
-Although we fully embrace the importance of computationally-driven technologies
-in the sciences, the digital divide hinders access to these technologies for
-many potential GRFP applicants. An emphasis on technologies some applicants
-simply will not have equal access to is an additional hindrance to these
-applicants at the very start of their careers.
-The consensus of research and reports funded or written by NSF, National
-Science Board, and the US National Academies of Science Engineering and Medicine
-(including annotated examples and references following this letter) make it
-clear that minoritized students including people of color, women, rural
-students, and others don’t enjoy access or exposure to the areas GRFP would now
-prioritize. We believe the use of these high-priority research areas will
-further contribute to the concentration of GRFP awards to students who attend a
-small handful of predominantly white, exclusionary selective undergraduate
-institutions and further limit applications and awards from Historically Black
-Colleges and Universities (HBCU), Tribal Colleges and Universities (TCUs), and
-Hispanic Serving Institutions (HSIs). The GRFP has already come under public
-scrutiny with Science reporting that just 10 schools represented 31% of 2019
-grants.  It’s difficult to imagine how GRFP will ever be a possibility for a
-young researcher at a tribal college without access to internet at home, a Black
-student at an under-resourced HBCU, or a woman veteran working on her PhD
-remotely who don’t have the same access to course work and institutional support
-in artificial intelligence, quantum information science, or other
-“computationally-driven technologies” as students at Research I universities.
-Furthermore, such research areas may further disenfranchise students from
-underrepresented communities who have concerns about these data-driven
-technologies (and whose communities are disproportionately affected by these
-technologies e.g. via policing and surveillance, to name one example).
+The GRFP has already come under public scrutiny with Science reporting that just 10 universities represented 31% of 2019 awards.<sup>1</sup> Preferring certain research areas will mean a movement away from the GRFP’s unique purpose in identifying and supporting the best scientists in any field and towards giving priority towards one field over others. The change will also further contribute to the disproportionate awarding of the GRFP to students who attend schools with the most resources - a small handful of predominantly white, exclusionary undergraduate institutions. Contrary to the community’s request that NSF broaden participation in this program, the proposed change will further limit the potential for applications and awards from Historically Black Colleges and Universities (HBCU), Tribal Colleges and Universities (TCUs), and Hispanic Serving Institutions (HSIs).
 
-**The problem with the term “emphasis” and the appeal to “merit”**
+The consensus of research and reports funded or written by NSF, National Science Board, and the US National Academies of Science Engineering and Medicine <sup>2,3,4,5,6,7,8,9,10,11,12</sup> make it clear that underrepresented students, including people of color, women, rural, first-generation, and low-income students have differential access and exposure to the areas now prioritized by the GRFP. While we fully believe the importance of computationally-driven technologies in the sciences and recognize the need for NSF to prioritize, bringing this emphasis into the GRFP amplifies the digital divide. In addition, emphasizing these research areas as the entry point to research careers may further disenfranchise students from underrepresented communities who are more susceptible to bias and data privacy abuses from AI/ML-driven technologies (and therefore have heightened  concerns about data privacy and bias). These students might be better served through culturally-sensitive exposure and training as undergraduates to allow them to develop informed agency in their decision making on these technologies.  
 
-Although the term “emphasis” might seem neutral, the ongoing petition at
-change.org (https://www.change.org/p/national-science-foundation-remove-priority-research-areas-from-nsf-grfp?, more than 2,500 signatures) and the multitude of comments there and on social
-media make it clear that many read this emphasis as a requirement they cannot
-meet or an advantage they have not participated in. We also find the tweet
-issued by NSF (https://twitter.com/NSF/status/1288082834574409728 )
-insufficient. Besides the low likelihood that applicants or reviewers will
-receive this guidance since the solicitation itself has not been updated, merit
-is not the issue. We believe that given a level playing field all students
-should have the opportunity to submit meritorious applications.
+Altogether, the revision sends a clearly exclusionary message and potentially adds to the problems noted in the 2014 evaluation of the GRFP (79.9% of fellows are white).<sup>2</sup> This disparity continues to be reflected on the list of GRFP alumni highlighted by NSF which features only three women and two persons of color. <sup>13</sup>
 
-**How to remedy this harm**
+### Calling for equity and not a change in merit  
 
-To remedy this harm, we strongly urge you to drop revision 4 from the
-solicitation. The GRFP has always been about “investing in the person”, not a
-particular and highly specialized approach to investigation. As it stands, very
-few students will be positioned as undergraduates to proposed sophisticated ML
-or quantum computing projects and  this emphasis may have the effect of lowering
-the quality of applications as students try to conform their proposals to
-incorporate approaches that are inappropriate or premature.  In addition,
-avoiding special emphasis in GRFP allows this program to better align with the
-strong basic research mission of NSF and sends the message that all modes of
-investigation (computationally intensive or not) have the potential to advance
-knowledge.
+Commentators on social media and more than 3,000 people have signed a Change.org petition <sup>14</sup> calling for a change to this revision. Many expressed concerns that the revision imposes a new requirement and a barrier that they themselves could not have met as past trainees.  We find that the recent clarification via Twitter (see below) insufficiently addresses this concern and it was not clear how any clarification could remedy our concerns unless the solicitation guidance itself is changed.
 
-We hope that NSF will consider concrete ways it can serve GRFP recipients and
-the scientific community at large by investing in the training and education
-which will help all students have access to computational skills.  For example,
-the NSF GRFP should create opportunities for award recipients to develop
-computational skills, akin to the existing GRIP and GROW programs.
-The corresponding letter author and co-authors as well as others o signatories
-are happy to help present community perspectives and solutions we hope could
-improve the GRFP in these and other respects (See also the list of GRFP alumni
-highlighted by NSF featuring only three women and two persons of color:
-https://www.nsfgrfp.org/resources/about_grfp/grfp_alumni).
 
-There are many ways NSF US research priorities without perpetuating disparities
-that exist for scholars at the beginning of their careers. We look forward to
-this and all socitications by NSF meeting its vision for inclusive science in
-the US and contributing to this vision.
+![NSFTWEET](nsf_tweet.png)
+
+NSF Tweet (July 28, 2020) https://twitter.com/NSF/status/1288082834574409728
+
+Furthermore, while the issue of merit raised in the tweet is important, we are not suggesting that NSF deviate from a merit-based selection criteria. In fact, we note that newly suggested areas of emphasis may have the effect of lowering the quality of applications as students try to craft their GRFP proposals to incorporate approaches that are inappropriate or premature.
+
+### Equitable ways to improve GRFP
+
+
+We strongly urge NSF to eliminate the preference for a narrow set of research areas (revision 4) from the solicitation.
+
+NSF has, in recent years, changed GRFP eligibility requirements to encourage a greater number of undergraduate applicants, <sup>15</sup>  but this has unfortunately only increased disparities in funding awardees.<sup>1,16,17</sup> The addition of priority areas runs counter to this effort to diversify and expand the applicant pool and could further harm the program. A strength of the GRFP is that it encourages trainees to develop their own research pathways on the way to becoming independent investigators, reflecting NSF’s philosophy of “investing in the person”. Avoiding preferences for specific fields of science would allow the GRFP to better align with the basic research mission of NSF and sends the message that all modes of investigation (computationally intensive or not) have the potential to advance knowledge.
+
+We hope NSF will consider concrete ways it can serve the scientific community by investing in the training and education which will help students have access to any skills critical to the US workforce. For example, the GRFP could create opportunities for award recipients to develop computational skills modeled after the existing Graduate Research Internship Program (GRIP) and Graduate Research Opportunities Worldwide (GROW) programs or NSF could expand XSEDE access in undergraduate education. We also would encourage going above and beyond the high standard for NSF review by implementing a new level of transparency for GRFP review panelists. This can  include additional training for cultural sensitivity and bias. Community input into a new review process for GRFP could better ensure the students selected reflect the diversity we aspire to see within science. NSF could also consider adopting initiatives to address potential issues related to ethics of data policy, use, and stewardship at earlier stages of training, so that all students, not just GRFP applicants, could benefit from this global contextualization.
+
+There are many ways NSF can advance US research priorities without perpetuating disparities that exist for scholars at the beginning of their careers. The co-authors and other signatories extend an offer to share community perspectives to continue to improve access and inclusion in the GRFP. We look forward to a revised GRFP solicitation from NSF that meets its vision for inclusive science in the US.
+
+
 
 ## Signatories
 
+**Add your name/organization by completing this form: [GRFP Signature Form](https://forms.gle/8TDN8spNC2n3ZKj67)**
 
-|Name|Institution or Organization|Funded by NSF|GRFP Applicant/Awardee|Comments|
+
+|Name|Institution/Organization|Funded by NSF|GRFP Applicant/Awardee|Comments|
 |----|---------------------------|-------------|----------------------|--------|
-|test|test|test|test|test|
-|test*|test|test|test|test|
+|Jason Williams *|Cold Spring Harbor Laboratory|Yes|||
+
 
 \* This individual is a co-author of this letter
+**Corresponding author** : Jason Williams, williams@cshl.edu 
 
-To request an edit to this list email williams@cshl.edu
+
+To request an edit to this signature list email williams@cshl.edu. Signatures
+will be updated at least once every 24 hours. Signatures will be added at least until August 15th, 2020.
+
+### FOOTNOTES AND REFERENCES
+
+1. Hu. Jane C. (2019, August 26). NSF graduate fellowships disproportionately go to students at a few top schools. Science | AAAS. https://www.sciencemag.org/careers/2019/08/nsf-graduate-fellowships-disproportionately-go-students-few-top-schools
+2. Bartolone, J. B., Halverson, M. L., Hoffer, T. B., Wolniak, G. C., Setlak, L., Hedberg, E. C., Nielsen, E., Nhuan-Le, V., & Yisak, M. (2014). Evaluation of the National Science Foundation’s Graduate Research Fellowship Program (NSFDACS08D1596).
+3. Byars-Winston, A., Gutierrez, B., Topp, S., & Carnes, M. (2011). Integrating Theory and Practice to Increase Scientific Workforce Diversity: A Framework for Career Development in Graduate Research Training. CBE—Life Sciences Education, 10(4), 357–367. https://doi.org/10.1187/cbe.10-12-0145
+4. Chemers, M. M., Zurbriggen, E. L., Syed, M., Goza, B. K., & Bearman, S. (2011). The Role of Efficacy and Identity in Science Career Commitment Among Underrepresented Minority Students: Efficacy and Identity in Science Career Commitment. Journal of Social Issues, 67(3), 469–491. https://doi.org/10.1111/j.1540-4560.2011.01710.x
+5. Committee on Closing the Equity Gap: Securing Our STEM Education and Workforce Readiness Infrastructure in the Nation’s Minority Serving Institutions, Board on Higher Education and Workforce, Policy and Global Affairs, & National Academies of Sciences, Engineering, and Medicine. (2019). Minority Serving Institutions: America’s Underutilized Resource for Strengthening the STEM Workforce (L. L. Espinosa, K. McGuire, & L. M. Jackson, Eds.; p. 25257). National Academies Press. https://doi.org/10.17226/25257
+6. Committee on Envisioning the Data Science Discipline: The Undergraduate Perspective, Computer Science and Telecommunications Board, Board on Mathematical Sciences and Analytics, Committee on Applied and Theoretical Statistics, Division on Engineering and Physical Sciences, Board on Science Education, Division of Behavioral and Social Sciences and Education, & National Academies of Sciences, Engineering, and Medicine. (2018). Data Science for Undergraduates: Opportunities and Options (p. 25104). National Academies Press. https://doi.org/10.17226/25104
+7. Committee on Increasing the Number of Women in Science, Technology, Engineering, Mathematics, and Medicine (STEMM), Committee on Women in Science, Engineering, and Medicine, Policy and Global Affairs, & National Academies of Sciences, Engineering, and Medicine. (2020). Promising Practices for Addressing the Underrepresentation of Women in Science, Engineering, and Medicine: Opening Doors (R. Colwell, A. Bear, & A. Helman, Eds.; p. 25585). National Academies Press. https://doi.org/10.17226/25585
+8. Expanding Underrepresented Minority Participation: America’s Science and Technology Talent at the Crossroads (p. 12984). (2011). National Academies Press. https://doi.org/10.17226/12984
+9. James, S. M., & Singer, S. R. (2016). From the NSF: The National Science Foundation’s Investments in Broadening Participation in Science, Technology, Engineering, and Mathematics Education through Research and Capacity Building. CBE—Life Sciences Education, 15(3), fe7. https://doi.org/10.1187/cbe.16-01-0059
+10. Whittaker, J. A., & Montgomery, B. L. (2012). Cultivating Diversity and Competency in STEM: Challenges and Remedies for Removing Virtual Barriers to Constructing Diverse Higher Education Communities of Success. Journal of undergraduate neuroscience education : JUNE : a publication of FUN, Faculty for Undergraduate Neuroscience, 11(1), A44–A51.
+11. Williams, J. J., Drew, J. C., Galindo-Gonzalez, S., Robic, S., Dinsdale, E., Morgan, W. R., Triplett, E. W., Iii, J. M. B., Donovan, S. S., Fowlks, E. R., Goodman, A. L., Grandgenett, N. F., Goller, C. C., Hauser, C., Jungck, J. R., Newman, J. D., Pearson, W. R., Ryder, E. F., Sierk, M., … Pauley, M. A. (2019). Barriers to integration of bioinformatics into undergraduate life sciences education: A national study of US life sciences faculty uncover significant barriers to integrating bioinformatics into undergraduate instruction. PLOS ONE, 14(11), e0224288. https://doi.org/10.1371/journal.pone.0224288
+12. Wong, B. (2016). Minority Ethnic Students and Science Participation: A Qualitative Mapping of Achievement, Aspiration, Interest and Capital. Research in Science Education, 46(1), 113–127. https://doi.org/10.1007/s11165-015-9466-x
+13. https://www.nsfgrfp.org/resources/about_grfp/grfp_alumni
+14. Catania C. Petition · Remove priority research areas from NSF GRFP · Change.org. (n.d.). Retrieved July 30, 2020, from https://www.change.org/p/national-science-foundation-remove-priority-research-areas-from-nsf-grfp
+15. https://www.nsf.gov/pubs/2016/nsf16051/nsf16051.pdf
+16. Lucas, K. (n.d.). The Graduate Research Fellowship Program favors elite schools – again. Massive Science. Retrieved July 30, 2020, from https://massivesci.com/articles/grfp-disparity-nsf/
+17. Telis, N.. (2018, April 3). The price of a GRFP, part 1. Natalie Telis. https://telis.blog/2018/04/03/the-price-of-a-grfp-part-1/
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
