@@ -114,7 +114,7 @@ the US and contributing to this vision.
 |test|test|test|test|test|
 |test*|test|test|test|test|
 
-* This individual is a co-author of this letter
+/* This individual is a co-author of this letter
 
 To request an edit to this list email williams@cshl.edu
 
