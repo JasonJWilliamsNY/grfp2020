@@ -13,7 +13,9 @@
 To:
 
 Dr. Sethuraman Panchanathan, Director National Science Foundation,
+
 Dr. Ellen Ochoa (Chair), and the members of the National Science Board
+
 CC: NSF GRFP Program officers: Drs. Jong-on Hahm, Christopher Hill, and Narcrisha S. Norman
 
 ----
