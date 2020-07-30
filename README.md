@@ -4,7 +4,7 @@
 
 **July 30, 2020**
 
-##See signatories and add your [signature](https://jasonjwilliamsny.github.io/grfp2020/#signatories).
+**See signatories and add your [signature](https://jasonjwilliamsny.github.io/grfp2020/#signatories).**
 
 To:
 
@@ -65,8 +65,8 @@ There are many ways NSF can advance US research priorities without perpetuating 
 
 
 \* This individual is a co-author of this letter
-**Corresponding author** : Jason Williams, williams@cshl.edu
 
+**Corresponding author** : Jason Williams, williams@cshl.edu
 
 To request an edit to this signature list email williams@cshl.edu. Signatures
 will be updated at least once every 24 hours. Signatures will be added at least until August 15th, 2020.
