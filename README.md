@@ -61,7 +61,7 @@ There are many ways NSF can advance US research priorities without perpetuating 
 
 |Name|Institution/Organization|Funded by NSF|GRFP Applicant/Awardee|Comments|
 |----|---------------------------|-------------|----------------------|--------|
-|Jason Williams *|Cold Spring Harbor Laboratory|Yes|||
+|Jason Williams*|Cold Spring Harbor Laboratory|Yes|||
 
 
 \* This individual is a co-author of this letter
@@ -73,7 +73,7 @@ will be updated at least once every 24 hours. Signatures will be added at least 
 
 ### FOOTNOTES AND REFERENCES
 
-1. Hu. Jane C. (2019, August 26). NSF graduate fellowships disproportionately go to students at a few top schools. Science | AAAS. https://www.sciencemag.org/careers/2019/08/nsf-graduate-fellowships-disproportionately-go-students-few-top-schools
+1. Hu. Jane C. (2019, August 26). NSF graduate fellowships disproportionately go to students at a few top schools. Science AAAS. https://www.sciencemag.org/careers/2019/08/nsf-graduate-fellowships-disproportionately-go-students-few-top-schools
 2. Bartolone, J. B., Halverson, M. L., Hoffer, T. B., Wolniak, G. C., Setlak, L., Hedberg, E. C., Nielsen, E., Nhuan-Le, V., & Yisak, M. (2014). Evaluation of the National Science Foundation’s Graduate Research Fellowship Program (NSFDACS08D1596).
 3. Byars-Winston, A., Gutierrez, B., Topp, S., & Carnes, M. (2011). Integrating Theory and Practice to Increase Scientific Workforce Diversity: A Framework for Career Development in Graduate Research Training. CBE—Life Sciences Education, 10(4), 357–367. https://doi.org/10.1187/cbe.10-12-0145
 4. Chemers, M. M., Zurbriggen, E. L., Syed, M., Goza, B. K., & Bearman, S. (2011). The Role of Efficacy and Identity in Science Career Commitment Among Underrepresented Minority Students: Efficacy and Identity in Science Career Commitment. Journal of Social Issues, 67(3), 469–491. https://doi.org/10.1111/j.1540-4560.2011.01710.x
