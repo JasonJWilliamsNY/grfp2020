@@ -1,3 +1,5 @@
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 # An Open Letter in Response to NSF 20-587 (Graduate Research Fellowship Program)
 **July 30, 2020**
 
