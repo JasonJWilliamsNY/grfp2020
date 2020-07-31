@@ -20,8 +20,13 @@ table {
       width: 75%;
       border: 1px solid rgb(0, 0, 0);
       overflow-x: auto;
+      class: scrollit;
    }
    th, td {
       text-align: left;
       padding: 8px;
    }
+.scrollit {
+    overflow:scroll;
+    height:100px;
+}
