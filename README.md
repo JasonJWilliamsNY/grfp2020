@@ -51,13 +51,13 @@ The issue of merit raised in the tweet is important. Newly suggested areas of em
 
 We strongly urge NSF to eliminate the preference for a narrow set of research areas (including revision 4 and elsewhere) from the solicitation.
 
-NSF has, in recent years, changed GRFP eligibility requirements to encourage a greater number of undergraduate applicants, [15]  but this has unfortunately only increased disparities in funding awardees. [1,16,17] The addition of priority areas runs counter to NSF’s effort to diversify and expand the applicant pool. One of the GRFP’s greatest strengths is that it encourages trainees to develop their own research ideas pathways on the way to becoming independent investigators. This reflects NSF’s intent with GRFP of “investing in the person”. Avoiding preferences for specific fields of science would allow the GRFP to better align with NSF’s basic research mission. Eliminating the preferences sends the message that all modes of investigation (computationally-intensive or not) have the promise of advancing knowledge.
+NSF has, in recent years, changed GRFP eligibility requirements to encourage a greater number of undergraduate applicants, [15]  but this has unfortunately only increased disparities in funding awardees. [1,16,17] The addition of priority areas runs counter to NSF’s effort to diversify and expand the applicant pool. **One of the GRFP’s greatest strengths is that it encourages trainees to develop their own research ideas pathways on the way to becoming independent investigators. This reflects NSF’s intent with GRFP of “investing in the person”.** Avoiding preferences for specific fields of science would allow the GRFP to better align with NSF’s basic research mission. Eliminating the preferences sends the message that all modes of investigation (computationally-intensive or not) have the promise of advancing knowledge.
 
 Instead of reserving some of the GRFP awards for priority areas, we suggest that NSF instead build capacity in the US science and engineering workforce by creating complementary programs. For example, the GRFP could create opportunities for award recipients to develop computational skills similar to the Graduate Research Internship Program (GRIP) and Graduate Research Opportunities Worldwide (GROW) programs. NSF could also expand XSEDE access in undergraduate education. NSF could also consider adopting initiatives to address potential issues related to ethics of data policy, use, and stewardship at earlier stages of training, so that all students, not just GRFP applicants, could benefit from this global contextualization.
 
-We also encourage going above and beyond the high standard for NSF review by implementing a new level of transparency for the GRFP review process. This could include additional training of panelists for cultural sensitivity and bias. Community input into a new review process for GRFP could better ensure the students selected reflect the diversity we aspire to see within science.
+**We also encourage going above and beyond the high standard for NSF review by implementing a new level of transparency for the GRFP review process.** This could include additional training of panelists for cultural sensitivity and bias. Community input into a new review process for GRFP could better ensure the students selected reflect the diversity we aspire to see within science.
 
-There are many ways NSF can advance US research priorities without perpetuating disparities that exist for scholars at the beginning of their careers. The co-authors and other signatories extend an offer to share community perspectives to continue to improve access and inclusion in the GRFP. We look forward to a revised GRFP solicitation from NSF that meets its vision for inclusive science in the US.
+**There are many ways NSF can advance US research priorities without perpetuating disparities that exist for scholars at the beginning of their careers.** The co-authors and other signatories extend an offer to share community perspectives to continue to improve access and inclusion in the GRFP. We look forward to a revised GRFP solicitation from NSF that meets its vision for inclusive science in the US.
 
 ## Signatories
 
@@ -121,5 +121,5 @@ will be updated at least once every 24 hours. Signatures will be added at least 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-T5
+T6
 {% include style.html %}
