@@ -116,7 +116,7 @@ will be updated at least once every 24 hours. Signatures will be added at least 
 14. Catania C. Petition · Remove priority research areas from NSF GRFP · Change.org. (n.d.). Retrieved July 30, 2020, from [https://www.change.org/p/national-science-foundation-remove-priority-research-areas-from-nsf-grfp](https://www.change.org/p/national-science-foundation-remove-priority-research-areas-from-nsf-grfp)
 15. [https://www.nsf.gov/pubs/2016/nsf16051/nsf16051.pdf](https://www.nsf.gov/pubs/2016/nsf16051/nsf16051.pdf)
 16. Lucas, K. (n.d.). The Graduate Research Fellowship Program favors elite schools – again. Massive Science. Retrieved July 30, 2020, from [https://massivesci.com/articles/grfp-disparity-nsf/](https://massivesci.com/articles/grfp-disparity-nsf/)
-17. Telis, N.. (2018, April 3). The price of a GRFP, part 1. Natalie Telis.[https://telis.blog/2018/04/03/the-price-of-a-grfp-part-1/](https://telis.blog/2018/04/03/the-price-of-a-grfp-part-1/)
+17. Telis, N. (2018, April 3). The price of a GRFP, part 1. Natalie Telis.[https://telis.blog/2018/04/03/the-price-of-a-grfp-part-1/](https://telis.blog/2018/04/03/the-price-of-a-grfp-part-1/)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
