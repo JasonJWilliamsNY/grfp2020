@@ -22,7 +22,7 @@ To:
 
 Dear NSF Leadership and Program Officers of the Graduate Research Fellowship Program,
 
-We write to you as members of the scientific community concerned about the recent Graduate Research Fellowship Program (GRFP) solicitation 20-587. Specifically, we are troubled by the identification, for the first time, of specific priority research areas:
+We write to you as members of the scientific community concerned about the recent Graduate Research Fellowship Program (GRFP) solicitation 20-587. Specifically, we are troubled by the identification of specific priority research areas:
 
 *“[I]n FY2021, GRFP will emphasize three high priority research areas in alignment with NSF goals. These areas are Artificial Intelligence, Quantum Information Science, and Computationally Intensive Research. Applications are encouraged in all disciplines supported by NSF that incorporate these high priority research areas.”*
 
@@ -62,6 +62,9 @@ There are many ways NSF can advance US research priorities without perpetuating 
 ## Signatories
 
 ### **Add your name/organization by completing this form: [GRFP Signature Form](https://forms.gle/8TDN8spNC2n3ZKj67)**
+
+Once we have reached 100 signatures we will send a physical copy to NSF and
+will continue collecting signatures and comments here. 
 
 
 |Name|Institution/Organization|Funded by NSF|GRFP Applicant/Awardee|Comments|
