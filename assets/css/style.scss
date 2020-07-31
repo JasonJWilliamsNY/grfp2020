@@ -14,68 +14,16 @@ table,thead,tbody,tfoot,tr,th,td{ font-family:"Times New Roman"; font-size:small
 a.comment-indicator:hover + comment { background:#ffd; position:absolute; display:block; border:1px solid black; padding:0.5em;  }
 a.comment-indicator { background:red; display:inline-block; border:1px solid black; width:0.5em; height:0.5em;  }
 comment { display:none;  }
-@import "compass/css3";
+@media only screen and (max-width: 800px) {
+	#unseen table td:nth-child(2),
+	#unseen table th:nth-child(2) {display: none;}
+}
 
-// More practical CSS...
-// using mobile first method (IE8,7 requires respond.js polyfill https://github.com/scottjehl/Respond)
-
-$breakpoint-alpha: 480px; // adjust to your needs
-
-.rwd-table {
-  margin: 1em 0;
-  min-width: 300px; // adjust to your needs
-
-  tr {
-    border-top: 1px solid #ddd;
-    border-bottom: 1px solid #ddd;
-  }
-
-  th {
-    display: none; // for accessibility, use a visually hidden method here instead! Thanks, reddit!
-  }
-
-  td {
-    display: block;
-
-    &:first-child {
-      padding-top: .5em;
-    }
-    &:last-child {
-      padding-bottom: .5em;
-    }
-
-    &:before {
-      content: attr(data-th)": "; // who knew you could do this? The internet, that's who.
-      font-weight: bold;
-
-      // optional stuff to make it look nicer
-      width: 6.5em; // magic number :( adjust according to your own content
-      display: inline-block;
-      // end options
-
-      @media (min-width: $breakpoint-alpha) {
-        display: none;
-      }
-    }
-  }
-
-  th, td {
-    text-align: left;
-
-    @media (min-width: $breakpoint-alpha) {
-      display: table-cell;
-      padding: .25em .5em;
-
-      &:first-child {
-        padding-left: 0;
-      }
-
-      &:last-child {
-        padding-right: 0;
-      }
-    }
-
-  }
-
-
+@media only screen and (max-width: 640px) {
+	#unseen table td:nth-child(4),
+	#unseen table th:nth-child(4),
+	#unseen table td:nth-child(7),
+	#unseen table th:nth-child(7),
+	#unseen table td:nth-child(8),
+	#unseen table th:nth-child(8){display: none;}
 }
