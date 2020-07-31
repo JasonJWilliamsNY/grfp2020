@@ -67,226 +67,29 @@ Once we have reached 100 signatures we will send a physical copy to NSF and
 will continue collecting signatures and comments here.
 
 
-|Name|Institution/Organization|Funded by NSF|GRFP Applicant/Awardee|Comments|
-|----|---------------------------|-------------|----------------------|--------|
-|Jason Williams*|Cold Spring Harbor Laboratory|Yes|||
-
-<style type="text/css">
-body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:"Calibri"; font-size:small }
-a.comment-indicator:hover + comment { background:#ffd; position:absolute; display:block; border:1px solid black; padding:0.5em;  }
-a.comment-indicator { background:red; display:inline-block; border:1px solid black; width:0.5em; height:0.5em;  }
-comment { display:none;  }
-</style>
-
-<div style="overflow-x:auto;">
-<table cellspacing="0" border="0">
-	<colgroup width="165"></colgroup>
-	<colgroup width="278"></colgroup>
-	<colgroup width="772"></colgroup>
-	<colgroup width="214"></colgroup>
-	<colgroup width="163"></colgroup>
-	<colgroup width="303"></colgroup>
-	<colgroup width="88"></colgroup>
-	<tr>
-		<td height="21" align="left" valign=bottom><b><font face="Arial" size=2 color="#000000">Name/Organization </font></b></td>
-		<td align="left" valign=bottom><b><font face="Arial" size=2 color="#000000">Institution</font></b></td>
-		<td align="left" valign=bottom><b><font face="Arial" size=2 color="#000000">Discipline(s)</font></b></td>
-		<td align="left" valign=bottom><b><font face="Arial" size=2 color="#000000">GRFP Applicant/Awardee GRFP</font></b></td>
-		<td align="left" valign=bottom><b><font face="Arial" size=2 color="#000000">NSF-funded investigator</font></b></td>
-		<td align="left" valign=bottom><b><font face="Arial" size=2 color="#000000">Career stage </font></b></td>
-		<td align="left" valign=bottom><b><font face="Arial" size=2 color="#000000">Comments</font></b></td>
-	</tr>
-	<tr>
-		<td height="21" align="left" valign=bottom><font face="Arial" size=2>Jason Williams*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2>Cold Spring Harbor Laboratory</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Biological and life sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Academic administrative</font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="21" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Carrie Diaz Eaton*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Bates College</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Biological and life sciences, Computer, information, and data sciences, Education, Mathematical and physical sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Academic faculty</font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="76" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Chelsea Hetherington</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">University of Illinois at Urbana-Champaign</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Social, behavioral, and economic sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Academic faculty</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">I am an NSF GRFP alum, awarded in 2013</font></td>
-	</tr>
-	<tr>
-		<td height="21" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Alessandra Zimmermann*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Proposal Analytics</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Biological and life sciences, Mathematical and physical sciences, Social, behavioral, and economic sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Research professional</font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="21" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Matthew Cover*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">California State University Stanislaus</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Biological and life sciences, Education</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Academic faculty</font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="21" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Yasmeen Musthafa*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">UC Irvine</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Mathematical and physical sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Graduate student</font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="21" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Elisah VandenBussche*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">University of Minnesota</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Engineering</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Graduate student</font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="21" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Jess Annai Millar*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">University of Michigan</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Biological and life sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Graduate student</font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="21" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Terry McGlynn*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">California State University Dominguez Hills</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Biological and life sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Academic faculty</font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="57" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Christian Cazares*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">University of California, San Diego</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Biological and life sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Graduate student</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Neurosciences Graduate Program</font></td>
-	</tr>
-	<tr>
-		<td height="21" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Morgan W. Tingley*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">University of California - Los Angeles</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Biological and life sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Academic faculty</font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="21" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Mark Mandel*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">University of Wisconsin&ndash;Madison</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Biological and life sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Academic faculty</font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="21" align="left" valign=bottom><font face="Arial" size=2 color="#000000">David A Baltrus</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">University of Arizona</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Biological and life sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Academic faculty</font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="21" align="left" valign=bottom><font face="Arial" size=2 color="#000000">George Iskander*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">University of Chicago</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Mathematical and physical sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Graduate student</font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="21" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Rajini Rao*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Johns Hopkins University</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Biological and life sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Academic faculty</font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="21" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Krystal S. Tsosie*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Vanderbilt University</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Biological and life sciences, Computer, information, and data sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Graduate Student and Research Professional</font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="113" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Holly (Helen) Beale</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">University California Santa Cruz</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Biological and life sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Research professional</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">2004 honorable mention, mentor of  2020 awardee</font></td>
-	</tr>
-	<tr>
-		<td height="21" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Christine Liu*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">UC Berkeley</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Biological and life sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Graduate student</font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="21" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Carol Lushbough*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">University of South Dakota</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Computer, information, and data sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Academic faculty</font></td>
-		<td align="left" valign=bottom><font color="#000000"><br></font></td>
-	</tr>
-	<tr>
-		<td height="95" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Jeff Letourneau*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Duke University</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Biological and life sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000"><br></font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Graduate student</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">We need greater diversity of GRFP awardees.</font></td>
-	</tr>
-	<tr>
-		<td height="546" align="left" valign=bottom><font face="Arial" size=2 color="#000000">Jonathan Puritz*</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">University of Rhode Island</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Biological and life sciences</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">&#9733;</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">Academic faculty</font></td>
-		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">I think that we should also call for increasing the diversity and participation of reviewers, encouraging reviewers from multiple career stages (even graduate students) and from a variety of institutions, including Historically Black Colleges and Universities (HBCU), Tribal Colleges and Universities (TCUs), and Hispanic Serving Institutions (HSIs). </font></td>
-	</tr>
-</table>
-</div>
+| Name/Organization      | Institution                                 | Discipline(s)                                                                                                         | GRFP Applicant/Awardee GRFP | NSF-funded investigator | Career stage                               | Comments                                                                                                                                                                                                                                                                                                                                                        |
+|------------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------------------|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Jason Williams*        | Cold Spring Harbor Laboratory               | Biological and life sciences                                                                                          |                             | ★                       | Academic administrative                    |                                                                                                                                                                                                                                                                                                                                                                 |
+| Carrie Diaz Eaton*     | Bates College                               | Biological and life sciences, Computer, information, and data sciences, Education, Mathematical and physical sciences |                             | ★                       | Academic faculty                           |                                                                                                                                                                                                                                                                                                                                                                 |
+| Chelsea Hetherington   | University of Illinois at Urbana-Champaign  | Social, behavioral, and economic sciences                                                                             | ★                           |                         | Academic faculty                           | I am an NSF GRFP alum, awarded in 2013                                                                                                                                                                                                                                                                                                                          |
+| Alessandra Zimmermann* | Proposal Analytics                          | Biological and life sciences, Mathematical and physical sciences, Social, behavioral, and economic sciences           |                             |                         | Research professional                      |                                                                                                                                                                                                                                                                                                                                                                 |
+| Matthew Cover*         | California State University Stanislaus      | Biological and life sciences, Education                                                                               | ★                           | ★                       | Academic faculty                           |                                                                                                                                                                                                                                                                                                                                                                 |
+| Yasmeen Musthafa*      | UC Irvine                                   | Mathematical and physical sciences                                                                                    | ★                           |                         | Graduate student                           |                                                                                                                                                                                                                                                                                                                                                                 |
+| Elisah VandenBussche*  | University of Minnesota                     | Engineering                                                                                                           | ★                           |                         | Graduate student                           |                                                                                                                                                                                                                                                                                                                                                                 |
+| Jess Annai Millar*     | University of Michigan                      | Biological and life sciences                                                                                          | ★                           |                         | Graduate student                           |                                                                                                                                                                                                                                                                                                                                                                 |
+| Terry McGlynn*         | California State University Dominguez Hills | Biological and life sciences                                                                                          | ★                           | ★                       | Academic faculty                           |                                                                                                                                                                                                                                                                                                                                                                 |
+| Christian Cazares*     | University of California, San Diego         | Biological and life sciences                                                                                          | ★                           |                         | Graduate student                           | Neurosciences Graduate Program                                                                                                                                                                                                                                                                                                                                  |
+| Morgan W. Tingley*     | University of California - Los Angeles      | Biological and life sciences                                                                                          | ★                           | ★                       | Academic faculty                           |                                                                                                                                                                                                                                                                                                                                                                 |
+| Mark Mandel*           | University of Wisconsin–Madison             | Biological and life sciences                                                                                          | ★                           | ★                       | Academic faculty                           |                                                                                                                                                                                                                                                                                                                                                                 |
+| David A Baltrus        | University of Arizona                       | Biological and life sciences                                                                                          | ★                           | ★                       | Academic faculty                           |                                                                                                                                                                                                                                                                                                                                                                 |
+| George Iskander*       | University of Chicago                       | Mathematical and physical sciences                                                                                    |                             |                         | Graduate student                           |                                                                                                                                                                                                                                                                                                                                                                 |
+| Rajini Rao*            | Johns Hopkins University                    | Biological and life sciences                                                                                          |                             |                         | Academic faculty                           |                                                                                                                                                                                                                                                                                                                                                                 |
+| Krystal S. Tsosie*     | Vanderbilt University                       | Biological and life sciences, Computer, information, and data sciences                                                |                             |                         | Graduate Student and Research Professional |                                                                                                                                                                                                                                                                                                                                                                 |
+| Holly (Helen) Beale    | University California Santa Cruz            | Biological and life sciences                                                                                          | ★                           |                         | Research professional                      | 2004 honorable mention, mentor of  2020 awardee                                                                                                                                                                                                                                                                                                                 |
+| Christine Liu*         | UC Berkeley                                 | Biological and life sciences                                                                                          | ★                           |                         | Graduate student                           |                                                                                                                                                                                                                                                                                                                                                                 |
+| Carol Lushbough*       | University of South Dakota                  | Computer, information, and data sciences                                                                              |                             | ★                       | Academic faculty                           |                                                                                                                                                                                                                                                                                                                                                                 |
+| Jeff Letourneau*       | Duke University                             | Biological and life sciences                                                                                          | ★                           |                         | Graduate student                           | We need greater diversity of GRFP awardees.                                                                                                                                                                                                                                                                                                                     |
+| Jonathan Puritz*       | University of Rhode Island                  | Biological and life sciences                                                                                          | ★                           | ★                       | Academic faculty                           | I think that we should also call for increasing the diversity and participation of reviewers, encouraging reviewers from multiple career stages (even graduate students) and from a variety of institutions, including Historically Black Colleges and Universities (HBCU), Tribal Colleges and Universities (TCUs), and Hispanic Serving Institutions (HSIs).  |
 
 \* This individual is a co-author of this letter
 
