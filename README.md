@@ -120,3 +120,212 @@ will be updated at least once every 24 hours. Signatures will be added at least 
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+
+
+<div style="overflow-x:auto;">
+  <table class="blueTable">
+					<tr>
+						<td style=min-width:50px>Name/Organization </td>
+						<td style=min-width:50px>Institution</td>
+						<td style=min-width:50px>Discipline(s)</td>
+						<td style=min-width:50px>GRFP Applicant/Awardee GRFP</td>
+						<td style=min-width:50px>NSF-funded investigator</td>
+						<td style=min-width:50px>Career stage </td>
+						<td style=min-width:50px>Comments</td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Jason Williams*</td>
+						<td style=min-width:50px>Cold Spring Harbor Laboratory</td>
+						<td style=min-width:50px>Biological and life sciences</td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px>Academic administrative</td>
+						<td style=min-width:50px></td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Carrie Diaz Eaton*</td>
+						<td style=min-width:50px>Bates College</td>
+						<td style=min-width:50px>Biological and life sciences, Computer, information, and data sciences, Education, Mathematical and physical sciences</td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px>Academic faculty</td>
+						<td style=min-width:50px></td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Chelsea Hetherington</td>
+						<td style=min-width:50px>University of Illinois at Urbana-Champaign</td>
+						<td style=min-width:50px>Social, behavioral, and economic sciences</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px>Academic faculty</td>
+						<td style=min-width:50px>I am an NSF GRFP alum, awarded in 2013</td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Alessandra Zimmermann*</td>
+						<td style=min-width:50px>Proposal Analytics</td>
+						<td style=min-width:50px>Biological and life sciences, Mathematical and physical sciences, Social, behavioral, and economic sciences</td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px>Research professional</td>
+						<td style=min-width:50px></td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Matthew Cover*</td>
+						<td style=min-width:50px>California State University Stanislaus</td>
+						<td style=min-width:50px>Biological and life sciences, Education</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px>Academic faculty</td>
+						<td style=min-width:50px></td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Yasmeen Musthafa*</td>
+						<td style=min-width:50px>UC Irvine</td>
+						<td style=min-width:50px>Mathematical and physical sciences</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px>Graduate student</td>
+						<td style=min-width:50px></td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Elisah VandenBussche*</td>
+						<td style=min-width:50px>University of Minnesota</td>
+						<td style=min-width:50px>Engineering</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px>Graduate student</td>
+						<td style=min-width:50px></td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Jess Annai Millar*</td>
+						<td style=min-width:50px>University of Michigan</td>
+						<td style=min-width:50px>Biological and life sciences</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px>Graduate student</td>
+						<td style=min-width:50px></td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Terry McGlynn*</td>
+						<td style=min-width:50px>California State University Dominguez Hills</td>
+						<td style=min-width:50px>Biological and life sciences</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px>Academic faculty</td>
+						<td style=min-width:50px></td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Christian Cazares*</td>
+						<td style=min-width:50px>University of California, San Diego</td>
+						<td style=min-width:50px>Biological and life sciences</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px>Graduate student</td>
+						<td style=min-width:50px>Neurosciences Graduate Program</td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Morgan W. Tingley*</td>
+						<td style=min-width:50px>University of California - Los Angeles</td>
+						<td style=min-width:50px>Biological and life sciences</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px>Academic faculty</td>
+						<td style=min-width:50px></td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Mark Mandel*</td>
+						<td style=min-width:50px>University of Wisconsin–Madison</td>
+						<td style=min-width:50px>Biological and life sciences</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px>Academic faculty</td>
+						<td style=min-width:50px></td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>David A Baltrus</td>
+						<td style=min-width:50px>University of Arizona</td>
+						<td style=min-width:50px>Biological and life sciences</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px>Academic faculty</td>
+						<td style=min-width:50px></td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>George Iskander*</td>
+						<td style=min-width:50px>University of Chicago</td>
+						<td style=min-width:50px>Mathematical and physical sciences</td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px>Graduate student</td>
+						<td style=min-width:50px></td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Rajini Rao*</td>
+						<td style=min-width:50px>Johns Hopkins University</td>
+						<td style=min-width:50px>Biological and life sciences</td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px>Academic faculty</td>
+						<td style=min-width:50px></td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Krystal S. Tsosie*</td>
+						<td style=min-width:50px>Vanderbilt University</td>
+						<td style=min-width:50px>Biological and life sciences, Computer, information, and data sciences</td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px>Graduate Student and Research Professional</td>
+						<td style=min-width:50px></td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Holly (Helen) Beale</td>
+						<td style=min-width:50px>University California Santa Cruz</td>
+						<td style=min-width:50px>Biological and life sciences</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px>Research professional</td>
+						<td style=min-width:50px>2004 honorable mention, mentor of 2020 awardee</td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Christine Liu*</td>
+						<td style=min-width:50px>UC Berkeley</td>
+						<td style=min-width:50px>Biological and life sciences</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px>Graduate student</td>
+						<td style=min-width:50px></td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Carol Lushbough*</td>
+						<td style=min-width:50px>University of South Dakota</td>
+						<td style=min-width:50px>Computer, information, and data sciences</td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px>Academic faculty</td>
+						<td style=min-width:50px></td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Jeff Letourneau*</td>
+						<td style=min-width:50px>Duke University</td>
+						<td style=min-width:50px>Biological and life sciences</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px></td>
+						<td style=min-width:50px>Graduate student</td>
+						<td style=min-width:50px>We need greater diversity of GRFP awardees.</td>
+					</tr>
+					<tr>
+						<td style=min-width:50px>Jonathan Puritz*</td>
+						<td style=min-width:50px>University of Rhode Island</td>
+						<td style=min-width:50px>Biological and life sciences</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px>★</td>
+						<td style=min-width:50px>Academic faculty</td>
+						<td style=min-width:50px>I think that we should also call for increasing the diversity and participation of reviewers, encouraging reviewers from multiple career stages (even graduate students) and from a variety of institutions, including Historically Black Colleges and Universities (HBCU), Tribal Colleges and Universities (TCUs), and Hispanic Serving Institutions (HSIs). </td>
+					</tr>
+				</table>
+
+
+
+
+</div>
