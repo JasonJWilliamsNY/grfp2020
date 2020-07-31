@@ -71,16 +71,14 @@ will continue collecting signatures and comments here.
 |----|---------------------------|-------------|----------------------|--------|
 |Jason Williams*|Cold Spring Harbor Laboratory|Yes|||
 
-	<style type="text/css">
-		body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:"Calibri"; font-size:small }
-		a.comment-indicator:hover + comment { background:#ffd; position:absolute; display:block; border:1px solid black; padding:0.5em;  }
-		a.comment-indicator { background:red; display:inline-block; border:1px solid black; width:0.5em; height:0.5em;  }
-		comment { display:none;  }
-	</style>
+<style type="text/css">
+body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:"Calibri"; font-size:small }
+a.comment-indicator:hover + comment { background:#ffd; position:absolute; display:block; border:1px solid black; padding:0.5em;  }
+a.comment-indicator { background:red; display:inline-block; border:1px solid black; width:0.5em; height:0.5em;  }
+comment { display:none;  }
+</style>
 
-</head>
-
-<body>
+<div style="overflow-x:auto;">
 <table cellspacing="0" border="0">
 	<colgroup width="165"></colgroup>
 	<colgroup width="278"></colgroup>
@@ -288,6 +286,7 @@ will continue collecting signatures and comments here.
 		<td align="left" valign=bottom><font face="Arial" size=2 color="#000000">I think that we should also call for increasing the diversity and participation of reviewers, encouraging reviewers from multiple career stages (even graduate students) and from a variety of institutions, including Historically Black Colleges and Universities (HBCU), Tribal Colleges and Universities (TCUs), and Hispanic Serving Institutions (HSIs). </font></td>
 	</tr>
 </table>
+</div>
 
 \* This individual is a co-author of this letter
 
