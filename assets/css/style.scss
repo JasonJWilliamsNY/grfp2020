@@ -15,7 +15,7 @@ a.comment-indicator:hover + comment { background:#ffd; position:absolute; displa
 a.comment-indicator { background:red; display:inline-block; border:1px solid black; width:0.5em; height:0.5em;  }
 comment { display:none;  }
 /* scrolltable rules */
-table  { margin-top:  20px; display: inline-block; overflow-x:auto; }
+table  { margin-top:  20px; display: inline-block; overflow-x:auto; width: 100%;}
 th div { margin-top: -20px; position: absolute; }
 
 /* design */
