@@ -575,7 +575,7 @@ away!
 
 \* This individual is a co-author of this letter
 
-
+Last updated 8AM Eastern, Saturday August 1. 
 
 
 **Diversity Wordcloud**
