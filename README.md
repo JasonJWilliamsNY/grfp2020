@@ -472,7 +472,7 @@ away!
 
 **Diversity Wordcloud**
 
-This wordcloud is taken a poll of signatories asking them to identify their relevant communities.
+This wordcloud reflects a poll of signatories asking them to identify their relevant communities.
 
  <img src="diversity.png" alt="wordcloud" style="width:600px;">
 
