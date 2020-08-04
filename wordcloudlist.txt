@@ -166,3 +166,10 @@ student
 #DisabledInSTEM
 #FirstGen
 #TransInSTEM
+Latinx
+Indigenous
+Native
+WomanInStem
+FirstGen
+grfp_alumni
+WomanInSTEM
