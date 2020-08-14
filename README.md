@@ -928,7 +928,7 @@ away!
 
 \* This individual is a co-author of this letter
 
-Last updated 3:30 PM Eastern, Wednesday August 12, 2020.
+Last updated 10:15 PM Eastern, Thursday August 13, 2020.
 
 
 **Diversity Word Cloud**
