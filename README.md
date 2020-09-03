@@ -916,7 +916,7 @@ away!
 | Tracy Yang                                            | Harvard University                                                             | Biological and life sciences                                                                                                                                                                 | ★                           |                         | Graduate student                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Carolina Patterson Seigler                            | Princeton University                                                           | Social, behavioral, and economic sciences                                                                                                                                                    | ★                           | ★                       | Graduate student                                | 2018 NSF GRFP awardee in sociology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Bonnie Bartel                                         | Rice University                                                                | Biological and life sciences                                                                                                                                                                 | ★                           | ★                       | Academic faculty                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Botainical Society of America ||||||Heather Cacanindin - Executive Director|
+| Botanical Society of America ||||||Heather Cacanindin - Executive Director|
 
 
 ----
@@ -937,6 +937,18 @@ This word cloud reflects a poll of signatories asking them to identify their rel
 
 **To request an edit to this signature list email williams@cshl.edu. Signatures
 will be updated at least once every 24 hours. Signatures will be added at least until August 15th, 2020.**
+
+**Citation**
+
+Please cite this work using the following DOI:
+
+[![DOI](https://zenodo.org/badge/283573301.svg)](https://zenodo.org/badge/latestdoi/283573301)
+
+Suggested citation:
+
+An Open Letter Response to NSF 20-587 GRFP. DOI 10.5821/zenodo.4014061
+
+
 
 ### FOOTNOTES AND REFERENCES
 
