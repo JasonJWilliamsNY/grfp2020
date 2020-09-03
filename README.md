@@ -946,7 +946,8 @@ Please cite this work using the following DOI:
 
 Suggested citation:
 
-An Open Letter Response to NSF 20-587 GRFP. DOI 10.5821/zenodo.4014061
+Jason	Williams, J. , Nick	Adams, Ellie	Armstrong, Michael	Baym, Jessica	Birky, Joel	Boerckel, Daniel	Bolnick, I. , Seth	Bordenstein, Laura	Boykin, Alice	Boyle, Siobhan	Braybrook, A. , S	Brinkley, Chelsea	Catania, Christian	Cazares, Jiahao	Chen, Tyler	Chen, Matthew	Cover, Dylan	Craven, Carrie	Diaz-Eaton, Jordan	Dowell, Breck	Duerkop, Christine	Dunham, Scott	Edwards, V. William	Etges, J. , Jeremy	Gibbs, A., Jennifer	Glass, B. , Olivia	Goldman, Linxin	Gu, Miguel	Guardado, Richard	Hall, John	Hodge, Michael	Hoffman, André	Hudson, George	Iskander, Jonathan	Jacobs, M. , Zsuzsa	Kaldy, Craig	Kaplan, Naga	Kothapalli, R. , Ted	Laderas, Jeff	Letourneau, Jacqueline, Linnes, Giordano	Lippi, Christine	Liu, Karen	Lloyd, G. , Katherine	Lo, Carol	Lushbough, Mark	Mandel, Rishi	Masalia, R. , Terry	McGlynn, Mara	McPartland, Samuel	Mehr, Jess	Millar, A. , Jin	Montclare, Yasmeen	Musthafa, Michelle	Muzzio, Paul	Orwin, Theodore	Pavlic, Jonathan	Puritz, Rajini	Rao, Pamela	Raymond, A. , Bryan	Reiley, Reid	Rumelt, Fritz	Sedlazeck, Nelson	Sepúlveda-Ramos, E. , Massa	Shoura, Mark	Silby, Natasha	Strydom, Adele	Tamboli, Ming	Tang, Morgan	Tingley, W. , Aradhna	Tripati, Krystal	Tsosie, S., Sarah	Tuttle, Elisah	VandenBussche, Lucianne	Walkowicz, Alexa	White, Kevin	Wright
+Bill	Wuest, Joshua	Wythe, Alessandra	Zimmermann. An Open Letter Response to NSF 20-587 GRFP. DOI 10.5821/zenodo.4014061
 
 
 
