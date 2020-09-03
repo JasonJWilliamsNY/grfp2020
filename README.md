@@ -6,7 +6,7 @@
 
 ----
 
-### **Use [this link](https://jasonjwilliamsny.github.io/grfp2020/#signatories) to see signatories and add your signature to this letter.**
+### **Use [this link](https://jasonjwilliamsny.github.io/grfp2020/#signatories) to see signatories.**
 
 ----
 
